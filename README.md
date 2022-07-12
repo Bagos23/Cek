@@ -42,7 +42,7 @@
   
   <div><i class="fa fa-blogspot ft60 clr-prl"></i> </div>
 
-### TINGGALKAN PESAN
+### TINGGALKAN TANGGAPAN
 <html>
   <head>
   </head>

@@ -20,6 +20,7 @@
 
   
   <div><i class="fa fa-𝐃𝐀𝐑𝐊 𝐉𝐎𝐊𝐄 II ft60 clr-prl"></i> </div>
+
 ### MY SOCIAL MEDIA
 👇👇👇👇
 <html>
@@ -40,6 +41,7 @@
 
   
   <div><i class="fa fa-blogspot ft60 clr-prl"></i> </div>
+
 ### TINGGALKAN PESAN
 👇👇👇👇
 <html>

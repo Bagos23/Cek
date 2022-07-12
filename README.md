@@ -1,7 +1,6 @@
 # Hai Banh
 
 ### MY FACEBOOK GROUP
-👇👇👇👇
 <html>
   <head>
   </head>
@@ -31,7 +30,6 @@
   <div><i class="fa fa-UMAT MEME ft60 clr-prl"></i> </div>
 
 ### MY SOCIAL MEDIA
-👇👇👇👇
 <html>
   <head>
   </head>

@@ -11,7 +11,15 @@
 
   
   <div><i class="fa fa-𝐃𝐀𝐑𝐊 𝐉𝐎𝐊𝐄 ft60 clr-prl"></i> </div>
+<html>
+  <head>
+  </head>
+<div id="widget ">
+  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://facebook.com/groups/1051507325706966//" class="btn" id="b"><i class="fa fa-𝐃𝐀𝐑𝐊 𝐉𝐎𝐊𝐄 II ft14"></i><span class="label" id="l">𝐃𝐀𝐑𝐊 𝐉𝐎𝐊𝐄 II</span></a></div>
+</div>
 
+  
+  <div><i class="fa fa-𝐃𝐀𝐑𝐊 𝐉𝐎𝐊𝐄 II ft60 clr-prl"></i> </div>
 ### MY SOCIAL MEDIA
 👇👇👇👇
 <html>
@@ -32,6 +40,8 @@
 
   
   <div><i class="fa fa-blogspot ft60 clr-prl"></i> </div>
+### TINGGALKAN PESAN
+👇👇👇👇
 <html>
   <head>
   </head>

@@ -1,3 +1,3 @@
 # Hai Banh
 
-<img src=”http://https://ibb.co/JzgsSCt”>
+<img src=”http://ibb.co/JzgsSCt”>

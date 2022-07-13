@@ -43,11 +43,11 @@
   <head>
   </head>
 <div id="widget ">
-  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://bagoeees23.blogspot.com/?m=1/" class="btn" id="b"><i class="fa fa-BlOGSPOT ft14"></i><span class="label" id="l">BlOGSPOT</span></a></div>
+  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://t.me/UmatDarkJoke/" class="btn" id="b"><i class="fa fa-TELEGRAM ft14"></i><span class="label" id="l">TELEGRAM</span></a></div>
 </div>
 
   
-  <div><i class="fa fa-BlOGSPOT ft60 clr-prl"></i> </div>
+  <div><i class="fa fa-TELEGRAM ft60 clr-prl"></i> </div>
 
 ### TINGGALKAN TANGGAPAN
 <html>

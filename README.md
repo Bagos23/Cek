@@ -34,7 +34,7 @@
   <head>
   </head>
 <div id="widget ">
-  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/bagos23_/" class="btn" id="b"><i class="fa fa-INSTAGRAM ft14"></i><span class="label" id="l">INSTAGRAM</span></a></div>
+  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/umat.dark.joke/" class="btn" id="b"><i class="fa fa-INSTAGRAM ft14"></i><span class="label" id="l">INSTAGRAM</span></a></div>
 </div>
 
   

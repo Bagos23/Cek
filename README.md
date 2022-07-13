@@ -54,7 +54,7 @@
   <head>
   </head>
 <div id="widget ">
-  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://secreto.site/id/ascwe3/1/" class="btn" id="b"><i class="fa fa-TULIS PESAN ft14"></i><span class="label" id="l">TULIS PESAN</span></a></div>
+  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://secreto.site/id/ahts85/" class="btn" id="b"><i class="fa fa-TULIS PESAN ft14"></i><span class="label" id="l">TULIS PESAN</span></a></div>
 </div>
 
   
